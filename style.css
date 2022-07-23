@@ -1,0 +1,76 @@
+section{
+    height: 500px;
+    width: auto;
+   
+}
+h1{
+    font-size: 40px;
+    color: salmon;
+}
+h3{
+    font-size: 30px;
+}
+.top{
+    background-image: url(images/header-bg.png);
+    background-color: #cccccc;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    
+   
+}
+.dream{
+    background-image: url(images/biography-bg.png);
+    background-color: #cccccc;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    
+}
+.half-width{
+    width: 40%;
+    float: left;
+    padding-left: 10%;
+    padding-top: 10%;
+    
+   
+}
+.half-width img{
+    
+    width: 60%;
+    height: auto;
+
+
+   
+}
+.battun{
+    text-decoration: none;
+    font-weight: 700;
+    background-image: linear-gradient(lightsalmon,tomato);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: #cccccc;
+    margin-top: 100px;
+    
+}
+h2{
+    font-weight: 600;
+    text-align: center;
+}
+.third{
+    width: 33%;
+    float: left;
+   border-left: 10px;
+   
+}
+.third img{
+    width: 100%;
+    height: auto;
+    padding-left: 5%;
+  
+}
+
